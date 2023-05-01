@@ -7,8 +7,11 @@
 # :woman_technologist: About Me:
 Data(Scientist/Engineer) Diva 
 
+<img alt="California" src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/us/california.png">
+
 [![Linkedin Badge](https://img.shields.io/badge/-aneshaak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aneshaa-k)
 <img src="https://komarev.com/ghpvc/?username=aneshaak&style=flat-square&color=blue" alt=""/>
+
 
 # :brain: TechStack:
 <table>
