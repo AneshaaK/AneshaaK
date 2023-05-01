@@ -134,4 +134,4 @@ Data(Scientist/Engineer) Diva
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AneshaaK&theme=jolly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AneshaaK&&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AneshaaK&&theme=jolly&hide_progress=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
