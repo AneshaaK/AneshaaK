@@ -59,10 +59,10 @@ Data(Scientist/Engineer) Diva
 </td>
   </tr>
     <tr>
-    <td>📊 Visualization tools</td>
+    <td>📊 Analytics and Visualization tools</td>
     <td>
       <span><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"></span>
-      <span><img alt="Google Looker Studio" src="https://img.shields.io/badge/Looker Studio-F2C811?style=plastic&logo=Power%20BI&logoColor=white"></span>
+      <span><img src="https://img.shields.io/badge/LookerStudio-4285F4?style=plastic&amp;logoColor=white" alt="Looker Studio badge"></span>
     </td>
   </tr>
     <tr>
@@ -77,6 +77,7 @@ Data(Scientist/Engineer) Diva
       <img src="https://img.shields.io/badge/Dataflow-4285F4?style=plastic&amp;logoColor=white" alt="Dataflow badge">
       <img src="https://img.shields.io/badge/ComputeEngine-4285F4?style=plastic&amp;logoColor=white" alt="Compute Engine badge">
       <img src="https://img.shields.io/badge/ComputeFunction-4285F4?style=plastic&amp;logoColor=white" alt="Compute Function badge">
+      <img src="https://img.shields.io/badge/LookerStudio-4285F4?style=plastic&amp;logoColor=white" alt="Looker Studio badge">
       <br>
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=plastic&amp;logo=amazonaws&amp;logoColor=white" alt="Amazon AWS badge">
       </div>
