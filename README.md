@@ -62,7 +62,7 @@ Data(Scientist/Engineer) Diva
     <td>📊 Analytics and Visualization tools</td>
     <td>
       <span><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"></span>
-      <span><img src="https://img.shields.io/badge/LookerStudio-4285F4?style=plastic&amp;logoColor=white" alt="Looker Studio badge"></span>
+      <span><img src="https://img.shields.io/badge/GoogleAnalytics-4285F4?style=plastic&amp;logoColor=white" alt="Google Analytics badge"></span>
     </td>
   </tr>
     <tr>
