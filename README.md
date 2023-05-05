@@ -21,7 +21,6 @@ Data(Scientist/Engineer) Diva
       <span><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"></span>
       <span><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></span>
       <span><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"></span>
-      <span><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white"></span>
       <span><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"></span>
       <span><img alt="PLSQL" src="https://img.shields.io/badge/PLSQL-F80000?style=plastic&logo=oracle&logoColor=black"></span>
   </tr>
@@ -63,7 +62,7 @@ Data(Scientist/Engineer) Diva
     <td>📊 Visualization tools</td>
     <td>
       <span><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"></span>
-      <span><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=white"></span>
+      <span><img alt="Google Looker Studio" src="https://img.shields.io/badge/Looker Studio-F2C811?style=plastic&logo=Power%20BI&logoColor=white"></span>
     </td>
   </tr>
     <tr>
