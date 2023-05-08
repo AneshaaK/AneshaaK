@@ -133,8 +133,8 @@ Data(Scientist/Engineer) Diva
 </table> 
 
 # 📈 Github Stats:
-<!-- ![DataDiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AneshaaK&theme=jolly&show_icons=true) -->
-![DataDiva's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AneshaaK&theme=jolly&show_icons=true)
+![DataDiva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AneshaaK&theme=jolly&show_icons=true)
+<!-- ![DataDiva's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api?username=AneshaaK&theme=jolly&show_icons=true)-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AneshaaK&theme=jolly)](https://git.io/streak-stats)
 
